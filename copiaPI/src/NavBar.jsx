@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <div className="navbar-logo">Logo</div>
+      
       <div className="navbar-buttons">
         <button className="login-button" onClick={handleLoginClick}>
           Login
